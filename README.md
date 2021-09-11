@@ -34,6 +34,6 @@ saída -> prog-check.txt
 ## 👨‍💻  Participantes
 - Gustavo Santos Guimarães 081180013 - EC6
 
-## Referências:
+## 📙 Referências:
 
 https://www.hackerrank.com/challenges/balanced-brackets/problem
