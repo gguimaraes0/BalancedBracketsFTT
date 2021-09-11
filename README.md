@@ -9,12 +9,12 @@ Projeto individual
 Não copiar código pronto!!
 Inserir no Moodle o link para o código no GitHub (Portfólio)
 Projeto em Java
-Ler um arquivo texto e marcar cada linha com OK ou Inválido:
+Ler um arquivo texto e marcar cada linha com Válido ou Inválido:
 {[]} - OK
 
 ([)] - Inválido
 
-[{()()}[]] - OK
+[{()()}[]] - Válido
 
 {}()[()]] - Inválido
 
