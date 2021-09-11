@@ -10,7 +10,8 @@ Não copiar código pronto!!
 Inserir no Moodle o link para o código no GitHub (Portfólio)
 Projeto em Java
 Ler um arquivo texto e marcar cada linha com Válido ou Inválido:
-{[]} - OK
+
+{[]} - Válido
 
 ([)] - Inválido
 
