@@ -36,4 +36,6 @@ saída -> prog-check.txt
 
 ## 📙 Referências:
 
-https://www.hackerrank.com/challenges/balanced-brackets/problem
+- https://www.hackerrank.com/challenges/balanced-brackets/problem
+
+- https://www.youtube.com/watch?v=CCyEXcNamC4
